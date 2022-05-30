@@ -1,0 +1,14 @@
+Anotações
+
+link para download do git
+
+O Git bash é um terminal estendido par aotimizar o uso do Git
+
+git clone
+git status
+
+git add -A
+git commit -m "inclusao das anotações"
+
+git push origin
+
